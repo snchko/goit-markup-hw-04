@@ -482,22 +482,20 @@ button:focus {
   justify-content: center;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.sm-footer-item-sv:hover {
-  background-color: #31d0aa;
-}
+.sm-footer-item-sv:hover,
 .sm-footer-item-sv:focus {
   background-color: #31d0aa;
+  color: #31d0aa;
 }
+
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
 }
-.media-link:hover {
-  background-color: #404bbf;
-}
-
+.media-link:hover,
 .media-link:focus {
   background-color: #404bbf;
+  color: #404bbf;
 }
