@@ -482,12 +482,10 @@ button:focus {
   justify-content: center;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.footer-link-color:hover,
-.footer-link-color:focus {
+.footer-link-color:hover {
   background-color: #31d0aa;
 }
-.link-color:hover,
-.link-color:focus {
+.link-color:hover {
   background-color: #404bbf;
 }
 
@@ -496,4 +494,10 @@ button:focus {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+}
+.footer-link-color:focus {
+  background-color: #31d0aa;
+}
+.link-color:focus {
+  background-color: #404bbf;
 }
