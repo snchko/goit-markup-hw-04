@@ -485,7 +485,6 @@ button:focus {
 .sm-footer-item-sv:hover,
 .sm-footer-item-sv:focus {
   background-color: #31d0aa;
-  color: #31d0aa;
 }
 
 .portfolio-list {
@@ -497,5 +496,4 @@ button:focus {
 .media-link:hover,
 .media-link:focus {
   background-color: #404bbf;
-  color: #404bbf;
 }
