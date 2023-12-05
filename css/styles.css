@@ -465,6 +465,7 @@ button:focus {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffff;
+  margin-bottom: 16px;
 }
 .sm-footer-list {
   display: flex;
