@@ -497,9 +497,9 @@ button:focus {
 .media-link:focus {
   background-color: #404bbf;
 }
-.media-link:focus {
+.smedia-list:focus {
   background-color: #404bbf;
 }
-.sm-footer-item-sv:focus {
+.sm-footer-item:focus {
   background-color: #31d0aa;
 }
